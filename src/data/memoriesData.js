@@ -1,7 +1,6 @@
 export const memories = [
     {
         id: 1,
-        date: "March 15, 2019",
         caption: "PEHLI MULAKAT ME HI MUKKA-LAAT !!",
         emoji: "📱",
         tag: "First Meeting",
@@ -26,6 +25,15 @@ export const memories = [
         question: "Ab hum kitne samay se saath hai?",
         options: ["6 months", "5 months", "4 months", "3 months"],
         correctAnswer: "5 months"
+    },
+    {
+        id: 4,
+        caption: "MEREKO TO HAMESHA YAAD RHNE WALA HAI WO DIN. PAHLI BAAR KISI KE SAMNE RO GYA..",
+        emoji: "😭",
+        tag: "confession",
+        question: "Yaad hai woh din, jab mujhe samajh aaya tha ki tum mere liye kitne special ho?",
+        options: ["18th March", "21st March", "20th March", "19th March"],
+        correctAnswer: "20th March"
     },
 
 ];
